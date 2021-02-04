@@ -36,6 +36,7 @@ h3 {
 a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
   text-decoration: none;
 }
 
@@ -135,7 +136,7 @@ hr {
    color: #EAF6F6;
    font-family: 'Montserrat', sans-serif;
    font-size: 1.5rem;
-   font-weight: 100;
+   font-weight: 900;
    padding: .5rem;
    background-color: #66BFBF;
    text-decoration: none;
@@ -151,7 +152,7 @@ hr {
    color: #66BFBF;
    font-family: 'Montserrat', sans-serif;
    font-size: 1.5rem;
-   font-weight: 100;
+   font-weight: 900;
    padding: .5rem;
    background-color: #40514E;
    text-decoration: none;
