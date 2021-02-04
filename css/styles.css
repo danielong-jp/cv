@@ -1,0 +1,181 @@
+/* using https://colorhunt.co/palette/8283 */
+
+/************************* TAG Styles**********************/
+div {
+  background-color: #f4f7f7;
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 1.3rem;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 5.62rem;
+  margin: 4rem auto 0 auto;
+  font-family: 'Parisienne', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  color: grey;
+  border-style: dotted none none none;
+  border-width: .5rem;
+  width: 15%;
+}
+
+/************************* CLASS Styles**********************/
+.top-container {
+  background-color: #EAF6F6;
+  position:relative;
+  padding-top: 6rem;
+}
+
+.inner-container {
+  background-color: #EAF6F6;
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container {
+    background-color: #f4f7f7;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 50px 0;
+}
+
+.bottom-cloud-image {
+  position: absolute;
+  width: 10%;
+  bottom: 40%;
+  left: 20%;
+}
+
+.top-cloud-image {
+  width: 10% ;
+  position: absolute;
+  right: 20%;
+  top: 15%;
+}
+
+
+.subtitle-text {
+  font-weight: normal;
+  margin-top: 2rem;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.profile-image {
+  border-radius: 100%;
+  padding-top: 25px;
+  width: 20%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 6.25rem auto 6.25rem auto;
+  text-align: left;
+}
+
+.code-image {
+  width: 20%;
+  float: left;
+  margin-right: 2rem;
+}
+
+.japanese-image {
+  width: 20%;
+  float: right;
+  margin-left: 2rem;
+}
+
+.btn {
+   -webkit-border-radius: .5rem;
+   -moz-border-radius: .5rem;
+   border-radius: .5rem;
+   color: #EAF6F6;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 1.5rem;
+   font-weight: 100;
+   padding: .5rem;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   -webkit-border-radius: .5rem;
+   -moz-border-radius: .5rem;
+   border-radius: .5rem;
+   color: #66BFBF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 1.5rem;
+   font-weight: 100;
+   padding: .5rem;
+   background-color: #40514E;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.contact-me {
+  padding-bottom: 50px;
+  width: 50%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px 0 40px 0;
+}
+.footer-link {
+  padding: 0 1rem 0 1rem;
+}
+
+.copyright {
+  color: #f4f7f7;
+  margin-bottom: 0;
+  font-size: .75rem;
+}
